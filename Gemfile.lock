@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mor (0.2.2.5.4)
+      rack
+    puma (2.11.1)
+      rack (>= 1.1, < 2.0)
+    rack (1.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mor (= 0.2.2.5.4)
+  puma
